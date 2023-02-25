@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b2eebb-9577-4344-8cf1-c7e03cc0b89f" name="Changes" comment="Test server färdig">
-      <change afterPath="$PROJECT_DIR$/client/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.py" afterDir="false" />
-    </list>
+    <list default="true" id="93b2eebb-9577-4344-8cf1-c7e03cc0b89f" name="Changes" comment="Test server färdig" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +51,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.client">
+  <component name="RunManager">
     <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bullshit-dice-game" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677342080775</updated>
-      <workItem from="1677344363195" duration="6763000" />
+      <workItem from="1677344363195" duration="7160000" />
     </task>
     <task id="LOCAL-00001" summary="Test server färdig">
       <created>1677347920175</created>
@@ -106,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677347920175</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Test server färdig">
+      <created>1677358551899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677358551899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
