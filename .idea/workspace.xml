@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b2eebb-9577-4344-8cf1-c7e03cc0b89f" name="Changes" comment="la till chattfunktion">
-      <change beforePath="$PROJECT_DIR$/server/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.py" afterDir="false" />
+    <list default="true" id="93b2eebb-9577-4344-8cf1-c7e03cc0b89f" name="Changes" comment="småfix">
+      <change afterPath="$PROJECT_DIR$/game/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game/game_protocol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/start.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/start.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +87,13 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.start" />
       <item itemvalue="Python.client" />
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.server" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.start" />
         <item itemvalue="Python.client" />
         <item itemvalue="Python.server" />
       </list>
@@ -102,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677342080775</updated>
-      <workItem from="1677344363195" duration="18404000" />
+      <workItem from="1677344363195" duration="19191000" />
     </task>
     <task id="LOCAL-00001" summary="Test server färdig">
       <created>1677347920175</created>
@@ -139,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677369439110</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="småfix">
+      <created>1677370220327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677370220327</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +171,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test server färdig" />
     <MESSAGE value="la till chattfunktion" />
-    <option name="LAST_COMMIT_MESSAGE" value="la till chattfunktion" />
+    <MESSAGE value="småfix" />
+    <option name="LAST_COMMIT_MESSAGE" value="småfix" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/bullshit_dice_game$test.coverage" NAME="test Coverage Results" MODIFIED="1677369643220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" />
