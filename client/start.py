@@ -28,4 +28,6 @@ Thread(target=update_messages).start()
 while True:
     message = input()
     c1.send_message(message)
+    if message == "{quit}":
+        break
 
