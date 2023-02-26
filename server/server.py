@@ -32,7 +32,6 @@ def client_communication(person):
     person.set_name(name)
 
     msg = bytes(f"{name} has joined the chat!", "utf8")
-    broadcast(msg, "")  # broadcast welcome message
 
     while True:  # lyssnar efter meddelanden
         msg = client.recv(BUFSIZ)
