@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b2eebb-9577-4344-8cf1-c7e03cc0b89f" name="Changes" comment="småfix">
-      <change afterPath="$PROJECT_DIR$/game/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/dice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/game_protocol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/start.xml" afterDir="false" />
+    <list default="true" id="93b2eebb-9577-4344-8cf1-c7e03cc0b89f" name="Changes" comment="fixade slarvfel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/client/start.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/oscar/bullshit-dice-game/server",
+    "last_opened_file_path": "C:/Users/oscar/Funktionell Programmering/AOC",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -107,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677342080775</updated>
-      <workItem from="1677344363195" duration="19191000" />
+      <workItem from="1677344363195" duration="20608000" />
     </task>
     <task id="LOCAL-00001" summary="Test server färdig">
       <created>1677347920175</created>
@@ -151,7 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677370220327</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="la till eventuell fil-struktur att jobba med och lite todo.">
+      <created>1677371025305</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677371025305</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixade slarvfel">
+      <created>1677371246637</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677371246637</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +181,9 @@
     <MESSAGE value="Test server färdig" />
     <MESSAGE value="la till chattfunktion" />
     <MESSAGE value="småfix" />
-    <option name="LAST_COMMIT_MESSAGE" value="småfix" />
+    <MESSAGE value="la till eventuell fil-struktur att jobba med och lite todo." />
+    <MESSAGE value="fixade slarvfel" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixade slarvfel" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/bullshit_dice_game$test.coverage" NAME="test Coverage Results" MODIFIED="1677369643220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/client" />
